@@ -1,0 +1,4 @@
+[package]
+name = "rust_todo_list"
+version = "0.1.0"
+authors =   ["Guillermo <lil bobert#4957>"]
